@@ -1,0 +1,13 @@
+body{background-attachment:fixed;background:url(img/v.jpg);background-repeat: repeat;display: block;overflow: ; }
+table{background: white;margin-top:10px; }
+.login_area{background: red;padding: 10px;display: inline;}
+.Marque{margin-top: 15px;margin-bottom: 10px;}           
+marquee{font-family: sans-serif;font-size: 25px;color: red;margin-bottom: 10px;}
+ul {margin: 0;padding: 0;list-style: none;display: block;background: red;overflow: hidden;}
+ul li{float: left;border-right: 1px solid blue;padding: 10px 30px;}
+ul li:first chid{border-left: 0px solid;}
+ul li:last chid{border-right: 0px solid;}
+ul li a{text-decoration:none;color: white;}
+ul li a:hover{background: orange;padding: 15px}
+.header img{margin-bottom: 10px; ;margin-top:10px;}
+progress{margin: 20px;}
